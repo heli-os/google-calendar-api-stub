@@ -1,2 +1,2 @@
-# google-calaendar-api-stub
+# google-calendar-api-stub
 stub of google calendar api
